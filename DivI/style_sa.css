@@ -1,0 +1,38 @@
+<style type=text/css>
+
+h1 {text-align: center; font-family: cursive}
+
+body {background-color:whitesmoke; font-family:georgia ; text-align: center
+     }
+
+#table { margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto; background-color: white; max-width:800px;  min-width: 1200 px; height: 700px
+}
+ul {text-align: centre; text-transform: uppercase;font-weight: bold }
+li {display: inline;  }
+
+table { border-left: 2px solid; border-bottom: 2px solid; border-top: 2px solid; border-right: 2px solid; width: auto; text-justify: auto; 
+    
+}
+th {width: 20px; padding: 10px; margin: 0px auto 0px auto; border-top: 2px solid ; border-bottom: 1px solid #000; border-bottom-color: black; border-left: 1px solid;   text-align: left
+    ; text-transform: capitalize; backface-visibility: visible; background-color: beige;  
+
+}
+
+td { ;  text-align: left; background-color: aliceblue;    
+}
+hr {height:20px; width: 600px; background-color:	#FFD300} 
+ 
+.profile {border-top: 4px solid; border-bottom: 4px solid; border-left:  4px solid; border-right:  4px solid; border-color: white; width: 90px; height: 80px; align-self: center; margin: auto 
+    
+}
+p { text-transform: uppercase; font-family:areil; font-weight: 100} 
+
+ 
+
+ 
+a {color: black; text-decoration-line: none;  text-decoration: none; letter-spacing: 1px; font-weight: bold
+    
+}
+a:active, a.on {color:#cc3333; background-color: white
+}
+</style>
